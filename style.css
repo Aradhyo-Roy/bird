@@ -1,0 +1,15 @@
+body{
+    text-align: center !important;
+    background: linear-gradient(#b8860b 0%, #000 100%);
+}
+#Home{
+    background: url(https://media.giphy.com/media/a4hc0w3KpIjLy/giphy.gif) !important;
+    padding: 98.1px;
+}
+html{
+    scroll-behavior: smooth !important;
+}
+label{
+    font-size: xx-large !important;
+    font-weight: bolder !important;
+}
